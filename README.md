@@ -1,2 +1,2 @@
 # bu2010-welcome
-Your first GitHub repo for BU2010
+Wecome to our first repo on GitHub for BU2010.
